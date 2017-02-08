@@ -2375,3 +2375,9 @@ if (typeof jQuery === 'undefined') {
   })
 
 }(jQuery);
+
+<script>
+$(document).ready(function(){
+    $('[data-toggle="all-is-well"]').tooltip();
+});
+</script>
