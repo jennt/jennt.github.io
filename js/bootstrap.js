@@ -2381,3 +2381,21 @@ $(document).ready(function(){
     $('[data-toggle="all-is-well"]').tooltip();
 });
 </script>
+
+<script>
+$(document).ready(function(){
+    $('[data-toggle="currency-converter"]').tooltip();
+});
+</script>
+
+<script>
+$(document).ready(function(){
+    $('[data-toggle="weather-report"]').tooltip();
+});
+</script>
+
+<script>
+$(document).ready(function(){
+    $('[data-toggle="travel-api"]').tooltip();
+});
+</script>
